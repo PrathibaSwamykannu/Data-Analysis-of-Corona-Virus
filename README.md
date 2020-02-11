@@ -12,3 +12,6 @@ Packages used :
 The dataset is added in this repository. To visualise the virus affected countries on a map, I used an extra dataset called as world_coordinates.csv that hold the latitude and longitude details of the countries. It was merged with the main dataset and then the map visualisation was created using plotly.
 
 It explores the confirmed and recovered cases along with cases that ended up with death. It shows the countries and the provinces/states affected as well. This descriptive analysis gave a lot of observations that helped to understand the impact of this virus.
+
+WORDCLOUD
+Word Cloud is a data visualization technique used for representing text data in which the size of each word indicates its frequency or importance. Here Word Cloud is implemented to show the provinces/states with the most number of cases reported(confirmed/recovered/death)
